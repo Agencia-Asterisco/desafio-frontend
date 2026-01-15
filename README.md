@@ -1,5 +1,3 @@
-Aqui está a tradução para o português:
-
 # Desafio Frontend
 
 Bem-vindo ao Desafio Frontend da Asterisco! Este teste tem como objetivo avaliar suas habilidades de desenvolvimento web usando [Astro](https://astro.build/), [TailwindCSS](https://tailwindcss.com/) e [Vue](https://vuejs.org/). Sua tarefa é construir um catálogo de produtos que busca e exibe dados da Fake Store API.
